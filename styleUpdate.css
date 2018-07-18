@@ -1,0 +1,29 @@
+.border{
+	background-color:  !important;
+	
+	float: left !important;
+	
+}
+.center{
+	width: 45%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.paddings{
+	padding-top: 60px !important;
+	
+
+}
+.pTop{
+	padding-top: 15px !important;
+	float: left !important;;
+}
+.jumbotron{
+	background: #ffffff !important;
+}
+.btn-width{
+	width: 110px !important;
+}
+.logout{
+	text-align: right  !important;
+}
