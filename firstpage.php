@@ -119,6 +119,7 @@
            $result = mysqli_query($con,$insert)
                 or die("Error: ".mysqli_error());
            echo "<script>window.location='firstpage.php';</script>";
+           echo "hii";
        }
       }
     if(isset($_POST['editSubmit'])){
@@ -162,6 +163,7 @@
         alert("Name must be filled out");
         return false;
     }
+
 }
 </script>
 
